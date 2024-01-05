@@ -1,0 +1,25 @@
+a{
+    text-decoration:none;
+    color: #f1d378;
+}
+
+ul{
+    list-style-type: none;
+    font-family: 'Play','sans-serif';
+    font-size: 1.0rem;
+}
+
+header{
+    background-color: black;
+}
+
+header nav ul li{
+    margin:0 5%;
+}
+
+.navbox{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
